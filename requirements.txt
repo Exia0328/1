@@ -1,2 +1,0 @@
-discord.py==19.0.3
-datetime.py==19.0.3
